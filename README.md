@@ -2,7 +2,7 @@
 
 This project analyzes retail sales performance and profitability using SQL to help business stakeholders understand revenue drivers, profit leakages, customer value, and discount impact.
 
-📌 Key Business KPIs
+#📌 Key Business KPIs
 
 Total Sales
 Total Profit
