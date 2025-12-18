@@ -29,14 +29,14 @@ Objective: Measure overall business performance.
 
 Insight: Total sales are strong, but profit margins vary across segments, indicating cost or discount inefficiencies.
 
-# Sales & Profit by Category (GROUP BY)
+# ✅Sales & Profit by Category (GROUP BY)
 
 Objective: Identify category-wise performance.
 
 Insight: Some categories contribute high sales but relatively lower profit, suggesting pricing or cost issues.
 Others generate consistent profit despite lower sales volume.
 
-# Discount Impact on Profitability (CASE WHEN)
+# https://designbundles.net/cooshstore/1008819-discount-offer-sale-price-tag-icon-flat-label-redDiscount Impact on Profitability (CASE WHEN)
 
 Objective: Evaluate how discounts affect profit.
 
