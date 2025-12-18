@@ -23,7 +23,7 @@ Format: CSV
 
 # Analysis & Insights 📈 
 
-# Sales & Profit Overview (GROUP BY)
+# ✅Sales & Profit Overview (GROUP BY)
 
 Objective: Measure overall business performance.
 
@@ -42,7 +42,7 @@ Objective: Evaluate how discounts affect profit.
 
 Insight: Higher discounts significantly reduce profitability. Orders with heavy discounts frequently result in losses, indicating the need for discount optimization strategies.
 
-# onthly Sales Trend (Date Analysis)
+# Monthly Sales Trend (Date Analysis)
 
 Objective: Analyze seasonality and growth patterns.
 
