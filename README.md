@@ -15,6 +15,7 @@ Loss-Making Orders
 ## 🗂️Dataset Description 
 
 Source: Sample Superstore (Retail Transactions)
+
 Format: CSV
 
 ## ✅Sample SQL Snippet 
