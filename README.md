@@ -23,7 +23,7 @@ Format: CSV
 
 # Analysis & Insights 📈 
 
-# ✅Sales & Profit Overview (GROUP BY)
+# 📈Sales & Profit Overview (GROUP BY)
 
 Objective: Measure overall business performance.
 
@@ -36,25 +36,25 @@ Objective: Identify category-wise performance.
 Insight: Some categories contribute high sales but relatively lower profit, suggesting pricing or cost issues.
 Others generate consistent profit despite lower sales volume.
 
-# https://designbundles.net/cooshstore/1008819-discount-offer-sale-price-tag-icon-flat-label-redDiscount Impact on Profitability (CASE WHEN)
+# ➗ Discount Impact on Profitability (CASE WHEN)
 
 Objective: Evaluate how discounts affect profit.
 
 Insight: Higher discounts significantly reduce profitability. Orders with heavy discounts frequently result in losses, indicating the need for discount optimization strategies.
 
-# Monthly Sales Trend (Date Analysis)
+# 🗓️Monthly Sales Trend (Date Analysis)
 
 Objective: Analyze seasonality and growth patterns.
 
 Insight: Sales show clear monthly trends, useful for inventory planning and promotional timing.
 
-# Top 5 Customers by Profit (Subquery)
+# 🔝Top 5 Customers by Profit (Subquery)
 
 Objective: Identify high-value customers.
 
 Insight: A small group of customers contributes disproportionately to total profit. These customers should be targeted for loyalty and retention programs.
 
-# High Sales but Low Profit Orders (Advanced Filtering)
+# 📉High Sales but Low Profit Orders (Advanced Filtering)
 
 Objective: Detect profit leakages.
 
