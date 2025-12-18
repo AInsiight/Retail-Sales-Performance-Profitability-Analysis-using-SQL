@@ -12,16 +12,16 @@ Monthly Sales Trend
 Customer Profit Contribution
 Loss-Making Orders
 
-#🗂️ Dataset Description
+#Dataset Description 🗂️
 
 Source: Sample Superstore (Retail Transactions)
 Format: CSV
 
-#📊 Sample SQL Snippet
+#Sample SQL Snippet 📊 
 <img width="637" height="578" alt="image" src="https://github.com/user-attachments/assets/8efb5d87-834e-4dc4-93af-e2f177b69ae0" />
 
 
-#📈 Analysis & Insights
+#Analysis & Insights 📈 
 
 #Sales & Profit Overview (GROUP BY)
 
