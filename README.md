@@ -2,7 +2,7 @@
 
 This project analyzes retail sales performance and profitability using SQL to help business stakeholders understand revenue drivers, profit leakages, customer value, and discount impact.
 
-#📌 Key Business KPIs
+# Key Business KPIs
 
 Total Sales
 Total Profit
@@ -12,7 +12,7 @@ Monthly Sales Trend
 Customer Profit Contribution
 Loss-Making Orders
 
-🗂️ Dataset Description
+#🗂️ Dataset Description
 
 Source: Sample Superstore (Retail Transactions)
 Format: CSV<img width="637" height="578" alt="image" src="https://github.com/user-attachments/assets/8efb5d87-834e-4dc4-93af-e2f177b69ae0" />
